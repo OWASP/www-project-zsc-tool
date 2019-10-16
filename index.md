@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP zsc tool
 tags: example-tag
 level: 4
+type: tool
 
 ---
 
