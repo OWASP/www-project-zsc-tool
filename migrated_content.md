@@ -91,7 +91,7 @@ auto-migrated: 1
 <h2 id="related_links">Related links</h2>
 <ul>
 <li>[<a href="https://www.youtube.com/watch?v=nkx0HQhYdmY">https://www.youtube.com/watch?v=nkx0HQhYdmY</a>| Appsec Presentation 2013 Beef and Custome shellcodes]</li>
-<li>[<a href="https://www.owasp.org/index.php/File:Introduction_to_shellcode_development.pdf">https://www.owasp.org/index.php/File:Introduction_to_shellcode_development.pdf</a>| Introduction to Shellcode Development]</li>
+<li>[<a href="/www-pdf-archive/File:Introduction_to_shellcode_development.pdf">/www-pdf-archive/File:Introduction_to_shellcode_development.pdf</a>| Introduction to Shellcode Development]</li>
 </ul></td>
 <p><a href="https://github.com/zscproject/OWASP-ZSC">Github Page.</a></p>
 <p><a href="http://zsc.z3r0d4y.com/download/">Download Page.</a></p>
@@ -432,9 +432,9 @@ Also this
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Breakers](Category:OWASP_Breakers "wikilink")
-[Category:OWASP_Code](Category:OWASP_Code "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
-[Category:OWASP_Download](Category:OWASP_Download "wikilink")
-[Category:Shellcode](Category:Shellcode "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Breakers](Category:OWASP_Breakers )
+[Category:OWASP_Code](Category:OWASP_Code )
+[Category:OWASP_Tool](Category:OWASP_Tool )
+[Category:OWASP_Download](Category:OWASP_Download )
+[Category:Shellcode](Category:Shellcode )
